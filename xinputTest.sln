@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28729.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xinputTest", "xinputTest\xinputTest.csproj", "{BDA64711-3140-442D-AA72-45177597FDEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDA64711-3140-442D-AA72-45177597FDEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDA64711-3140-442D-AA72-45177597FDEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDA64711-3140-442D-AA72-45177597FDEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDA64711-3140-442D-AA72-45177597FDEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B0F1BBB-5909-4A96-A6B9-F9EF27641018}
+	EndGlobalSection
+EndGlobal
